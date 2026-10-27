@@ -52,7 +52,7 @@ LIMIT 20 OFFSET 0;
 SELECT id, title, price, seller_id
 FROM products
 ORDER BY id
-LIMIT 20 OFFSET 20;
+LIMIT 20 OFFSET 20
 
 
 
@@ -61,7 +61,6 @@ LIMIT 20 OFFSET 20;
 
 
 -- SELECT * FROM orders
-
 
 
 
